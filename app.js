@@ -3,9 +3,7 @@ import React from 'react'
 function app() {
   return (
     <>
-    <div>This is the new JSX content</div>
-    <div>This is the Latest JSX content</div>
-    <div>This is the MODIFIED CONTENT in main branch.</div>
+    <div>This is a new content in appjs branch.</div>
     </>
   )
 }
