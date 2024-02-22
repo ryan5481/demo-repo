@@ -1,3 +1,11 @@
 README MODIFIED AGAIN
 
-modified this line of code in feature/new-branch
+
+## Local change
+### Features
+[x] Home page
+[ ] Carousel
+
+new line
+second new line
+
