@@ -5,6 +5,7 @@ function app() {
     <>
     <div>This is the new JSX content</div>
     <div>This is the Latest JSX content</div>
+    <div>This is the MODIFIED CONTENT in main branch.</div>
     </>
   )
 }
