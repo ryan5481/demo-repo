@@ -3,7 +3,7 @@ import React from 'react'
 function app() {
   return (
     <>
-    <div>This is the MODIFIED CONTENT in main branch.</div>
+    <div>EDITED IN MAIN BRANCH.</div>
     </>
   )
 }
